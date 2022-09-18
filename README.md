@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Archerd6
+🚀 About Me
+
 - 👀 I’m interested in Machine learning/Artificial intelligence, Data science, and Software engineering 💻 (also I like creating and playing games 🎮)
 - 🌱 I’m currently learning many of the tools that are used in my field of knowledge (bioinformatics) and others that are amazing and very useful
 - 💞️ I’m looking to collaborate on projects that may help people, and make utilities accessible for those who can’t make or don’t have the knowledge to do
